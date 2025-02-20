@@ -1,2 +1,2 @@
-Gsi_exam
-ce depot contient les solution pour l'examen d'administration Systeme et DevOps (L2 IET GSI).
+c'est ma version locale du fichier,avec des information importantes.
+Et voici aussi la version distante avec des informations recentes.
